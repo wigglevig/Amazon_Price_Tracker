@@ -18,8 +18,12 @@ Amazon Price Tracker is a Python-based desktop application that enables users to
 ![Authentication Window](authentication_window.jpg)  
 *Login window to authenticate users before accessing the main features.*
 
+
+
 ![Main Application Window](app_window.jpg)  
 *The main dashboard displaying price tracking and monitoring functionalities.*
+
+
 
 ![Logged-in Window](logged_in_window.png)  
 *Post-login view with access to additional features.*
