@@ -1,0 +1,5 @@
+Be Good Do Good
+Welcome 2 all brothers and sisters
+Thank you 2 all brothers and sisters
+The output of the function should be:
+Number of digits:2
